@@ -1,0 +1,7 @@
+forge "https://forgeapi.puppetlabs.com"
+
+mod 'mayflower/php'
+mod 'jfryman/nginx'
+mod 'dwerder/redis'
+#mod 'puppetlabs/apache'
+
